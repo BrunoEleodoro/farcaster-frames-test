@@ -26,9 +26,10 @@ export function appURL() {
 }
 
 export function vercelURL() {
-  return process.env.VERCEL_URL
-    ? `https://${process.env.VERCEL_URL}`
-    : undefined;
+  // return process.env.VERCEL_URL
+  //   ? `https://${process.env.VERCEL_URL}`
+  //   : undefined;
+  return "https://farcaster-frames-test-rho.vercel.app"
 }
 
 export function createExampleURL(path: string) {
