@@ -18,18 +18,6 @@ const examples = [
     path: "/examples/composer-actions",
   },
   {
-    title: "Custom Font (edge)",
-    path: "/examples/custom-font-edge",
-  },
-  {
-    title: "Custom Font (inline)",
-    path: "/examples/custom-font-inline",
-  },
-  {
-    title: "Custom Font (nodejs)",
-    path: "/examples/custom-font-nodejs",
-  },
-  {
     title: "Custom Farcaster Hub",
     path: "/examples/custom-hub",
   },
